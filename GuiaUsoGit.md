@@ -26,7 +26,13 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 <br>
   
 ## Comandos habituales para trabajar con repositorios remotos
-### git init, status, remote, add, commit, push
+1. Iniciamos GIT en la carpeta donde esta el proyecto:
+> `git init`
+2. Agregar repositorio remoto:
+> `git remote add origin` \<url>
+3. Añadimos el archivo para el commit:
+> `git add` \<archivo> o `git add .` si queremos añadir todos los archivos que tenemos en local.
+
 <br>
 
 ## Clonar un repositorio
