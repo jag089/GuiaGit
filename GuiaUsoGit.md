@@ -43,7 +43,8 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 <br>
 
 ## Clonar un repositorio
-Copiar dirección del repositorio y usamos el comando `git clone` \<dirección>
+Copiar dirección del repositorio y usamos el comando 
+> `git clone` \<dirección>
 <br>
 
 ## Hacer un repositorio existente
