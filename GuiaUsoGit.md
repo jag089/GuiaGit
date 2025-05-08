@@ -1,4 +1,5 @@
-# Guía básica del uso de Git <br>
+# Guía básica del uso de Git
+
 
 ## ¿Qué es Git? 
 
@@ -23,7 +24,6 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 2. Descargar Git Bash de la página oficial: https://git-scm.com/downloads
 3. Crear carpeta en disco local de nuestro PC.
 4. Hacer click derecho dentro de la carpeta y abrir la consola de Git Bash.
-<br>
 
 
 ## Comandos habituales para trabajar con repositorios remotos
@@ -40,12 +40,13 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 > `git push`
 6. Comprobamos el estado del repositorio:
 > `git status`
-<br>
+
 
 ## Clonar un repositorio
 Copiar dirección del repositorio y usamos el comando 
 > `git clone` \<dirección>
-<br>
+
+
 
 ## Hacer un repositorio existente
 1. Hacer click en el botón de *fork* del repositorio que queremos copiar al nuestro:
@@ -57,4 +58,4 @@ Copiar dirección del repositorio y usamos el comando
 3. Opcionalmente, se puede añadir una descripción.
 
 4. Crear repositorio. 
-<br>
+
