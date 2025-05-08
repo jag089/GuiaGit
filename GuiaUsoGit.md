@@ -1,5 +1,5 @@
 # Guía básica del uso de Git
-
+<br>
 
 ## ¿Qué es Git? 
 
@@ -7,6 +7,7 @@
 
 [Git](https://es.wikipedia.org/wiki/Git) es un software de [control de versiones](https://es.wikipedia.org/wiki/Control_de_versiones) diseñado por [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds), pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
 
+<br>
 
 ## ¿Qué es Github?
 
@@ -17,6 +18,7 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 > [!NOTE]
 > No debe confundirse con Git o [GitLab](https://es.wikipedia.org/wiki/GitLab).
 
+<br>
 
 ## ¿Qué necesitamos para usar Github en nuestros proyectos?
 
@@ -25,6 +27,7 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 3. Crear carpeta en disco local de nuestro PC.
 4. Hacer click derecho dentro de la carpeta y abrir la consola de Git Bash.
 
+<br>
 
 ## Comandos habituales para trabajar con repositorios remotos
 
@@ -41,12 +44,13 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 6. Comprobamos el estado del repositorio:
 > `git status`
 
+<br>
 
 ## Clonar un repositorio
 Copiar dirección del repositorio y usamos el comando 
 > `git clone` \<dirección>
 
-
+<br>
 
 ## Hacer un repositorio existente
 1. Hacer click en el botón de *fork* del repositorio que queremos copiar al nuestro:
