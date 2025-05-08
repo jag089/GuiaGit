@@ -48,5 +48,13 @@ Copiar dirección del repositorio y usamos el comando
 <br>
 
 ## Hacer un repositorio existente
-Utiliza el menú desplegable de la esquina superior derecha de cualquier página y selecciona Nuevo Repositorio. Escribe un nombre para el repositorio. También puedes añadir una descripción al mismo. Elige la visibilidad del repositorio: público, interno o privado.
+1. Hacer click en el botón de *fork* del repositorio que queremos copiar al nuestro:
+   
+![](https://docs.github.com/assets/cb-34352/mw-1440/images/help/repository/fork-button.webp)
+
+2. En la siguiente pantalla, elegir dueño del repositorio y nombre que le queramos dar.
+
+3. Opcionalmente, se puede añadir una descripción.
+
+4. Crear repositorio. 
 <br>
