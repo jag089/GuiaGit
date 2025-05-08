@@ -43,7 +43,9 @@ GitHub es una [forja](https://es.wikipedia.org/wiki/Forja_(software)) (plataform
 <br>
 
 ## Clonar un repositorio
+Copiar dirección del repositorio y usamos el comando `git clone` \<dirección>
 <br>
 
 ## Hacer un repositorio existente
+Utiliza el menú desplegable de la esquina superior derecha de cualquier página y selecciona Nuevo Repositorio. Escribe un nombre para el repositorio. También puedes añadir una descripción al mismo. Elige la visibilidad del repositorio: público, interno o privado.
 <br>
